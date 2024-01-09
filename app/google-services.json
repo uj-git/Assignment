@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796268535378",
+    "project_id": "assignment-402ec",
+    "storage_bucket": "assignment-402ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796268535378:android:05b8820161aaaf1f92898b",
+        "android_client_info": {
+          "package_name": "com.umang.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZEn_sXCl8rn_nW4_qvvwH8q2jAetpdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
